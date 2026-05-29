@@ -3,7 +3,7 @@
 :warning: **We are still developing the course content. The content will be only be finalized by the end of the first week of the semester.**
 
 
-This repository contains the materials of the  **Seminar on Seminar Trustworthy AI Models and Systems** - fall 2026  at the master program of BeNeFri . 
+This repository contains the materials of the  **Seminar on Trustworthy AI Models and Systems** - fall 2026  at the master program of BeNeFri . 
 
 
 ##  <a name='Importantlinks'></a>Important links
