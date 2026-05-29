@@ -3,7 +3,7 @@
 :warning: **We are still developing the course content. The content will be only be finalized by the end of the first week of the semester.**
 
 
-This repository contains the materials of the  **Seminar on Seminar Trustworthy AI Models and Systems** - fall 2025  at the master program of BeNeFri . 
+This repository contains the materials of the  **Seminar on Seminar Trustworthy AI Models and Systems** - fall 2026  at the master program of BeNeFri . 
 
 
 ##  <a name='Importantlinks'></a>Important links
@@ -79,16 +79,16 @@ Here is the schedule for completing the project
 
 **Week**|**Topic**|**Presenter**|**Milestones**
 :-----|:----- |:-----|:-----
-Week 1 (09/16) | Trustworthy GAI I| Lydia |
-Week 2 (09/23)| Trustworthy RL I | Christos | 
-Week 3 (09/30)| Trustworthy GAI II | GAI Supervisors|**Mandatory Presence** 
-Week 4 (10/07)| Trustworthy RL II| RL Supervisors| **Mandatory Presence** Meeting supervisor - defining the projects
-Week 5 (10/14)| Self study| 
-Week 6 (10/21)| Self study| |Meeting supervisor - reproducing results| 
-Week 7 (10/28)| Self study |
-Week 8 (11/04| Self study| | Meeting supervisor - extending paper
-Week 9 (11/11)| Self study | 
-Week 10 (11/18)|Self study| | Meeting supervisor - final check| 
-Week 11 (11/25)|  Project presentation|Student groups| **Mandatory Presence**
-Week 12 (12/02)|  Project presentation|Student groups| **Mandatory Presence**
-Week 13 (12/09)| Project presentation|Student groups |**Mandatory Presence**
+Week 1 (09/15) | Trustworthy GAI I| Lydia |
+Week 2 (09/22)| Trustworthy RL I | Christos | 
+Week 3 (09/29)| Trustworthy GAI II | GAI Supervisors|**Mandatory Presence** 
+Week 4 (10/06)| Trustworthy RL II| RL Supervisors| **Mandatory Presence** Meeting supervisor - defining the projects
+Week 5 (10/13)| Self study| 
+Week 6 (10/29)| Self study| |Meeting supervisor - reproducing results| 
+Week 7 (10/27)| Self study |
+Week 8 (11/03| Self study| | Meeting supervisor - extending paper
+Week 9 (11/10)| Self study | 
+Week 10 (11/17)|Self study| | Meeting supervisor - final check| 
+Week 11 (11/24)|  Project presentation|Student groups| **Mandatory Presence**
+Week 12 (12/01)|  Project presentation|Student groups| **Mandatory Presence**
+Week 13 (12/08)| Project presentation|Student groups |**Mandatory Presence**
