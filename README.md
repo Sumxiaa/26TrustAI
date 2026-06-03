@@ -45,7 +45,7 @@ This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.gi
 
 
 
-Lydia can be always reached at **lydiaychen@ieee.org**, and Christos at Christos **christos.dimitrakakis@unine.ch**. In order to get prompt response about the course, put the email title starting with [TAI25]
+Lydia can be always reached at **lydiaychen@ieee.org**, and Christos at Christos **christos.dimitrakakis@unine.ch**. In order to get prompt response about the course, put the email title starting with [TAI26]
 
 
 ##  <a name='Learningobjectives'></a>Learning objectives
