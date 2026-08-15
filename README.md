@@ -41,7 +41,7 @@ Check [Paper Reading List](papers.md)
 
 
 ##  <a name='Courseteam'></a>Course team
-This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.github.io/]) and [Prof. Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis)  . The course team is composed of a number of PhDs  who support the course through guest lectures.
+This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.com/]) and [Prof. Christos Dimitrakakis]  . The course team is composed of a number of PhDs  who support the course through guest lectures.
 
 
 
