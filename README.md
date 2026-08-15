@@ -80,9 +80,9 @@ Here is the schedule for completing the project
 **Week**|**Topic**|**Presenter**|**Milestones**
 :-----|:----- |:-----|:-----
 Week 1 (09/15) | Trustworthy GAI I| Lydia |
-Week 2 (09/22)| Trustworthy RL I | Christos | 
-Week 3 (09/29)| Trustworthy GAI II | GAI Supervisors|**Mandatory Presence** 
-Week 4 (10/06)| Trustworthy RL II| RL Supervisors| **Mandatory Presence** Meeting supervisor - defining the projects
+Week 2 (09/22)| Trustworthy GAI II | Lydia & Supervisors| **Mandatory Presence** 
+Week 3 (09/29)| Trustworthy GAI III | Lydia & Supervisors|**Mandatory Presence** 
+Week 4 (10/06)| Self study| | * Meeting supervisor - defining the projects
 Week 5 (10/13)| Self study| 
 Week 6 (10/29)| Self study| |Meeting supervisor - reproducing results| 
 Week 7 (10/27)| Self study |
