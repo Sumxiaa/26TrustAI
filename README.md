@@ -8,7 +8,7 @@ This repository contains the materials of the  **Seminar on Trustworthy AI Model
 
 ##  <a name='Importantlinks'></a>Important links
 
-- [Topics and papers List ](papers.md)
+- [Topics and papers List ](paper26.md)
 
 
 
