@@ -35,8 +35,7 @@ Paper reading, reproducing and improvement  are the key activities in this cours
   - Overall grade (80\%): the reproducing quality, the effectiveness of the proposed extension, the extensiveness of evaluation, the report, the code and presentation
   
 
-Check [Paper Reading List](papers.md)
-
+Check [Paper Reading List](paper26.md)
 **All assessment items (presentation slides and report,) have to be submitted via ILIAS.**
 
 

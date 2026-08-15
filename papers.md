@@ -2,8 +2,7 @@
 #  Topics, papers, and supervisors
 
 ## Topic 1: GenAI 
-
-- **Supervisor** XXXXX
+- **Supervisor** Gert
 - **General description :** AI-generated images are increasingly hard to distinguish by eye, and the political and safety consequences pose significant risks to trust in digital media, elections, and public discourse. This topic studies training-free detection of AI-generated images using vision foundation models to improve our ability to detect synthetic content.
 
 - **Paper 1.1** Further improving training-free AI-generated image detection.
@@ -93,7 +92,7 @@ A Signal Processing Perspective](https://arxiv.org/pdf/2502.12445) Section 5A
 
 
 ## Topic 6: GenAI (Sampling in graph synthesizers)
-- **Supervisor:** Abele Malan
+- **Supervisor:** Aditya Shankar
 
 - **General description:**
   Investigate output controllability and process optimization in the sampling of iterative denoising (e.g., diffusion) deep learning models for synthetic graph generation.
