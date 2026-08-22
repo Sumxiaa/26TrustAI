@@ -20,7 +20,7 @@
   - 👨‍🏫: ⭐
   - 🖥️: ⭐⭐⭐
   
-  - **Link :
+  - **Link : [SteerViT Project Page](https://jonaruthardt.github.io/project/SteerViT/)
   - **Brief description :** This paper introduces SteerViT, which injects text into a frozen vision foundation model through lightweight cross-attention modules. The resulting visual representations can focus on text-specified objects while largely preserving the general-purpose representation quality of the original vision encoder.
   - **How to reproduce :**
   - **How to extend :**
