@@ -38,16 +38,22 @@
 
 ## Topic 2 : Agentic Systems
 
-- **Supervisor** Guilio
-- **Paper ** XXXXX
+- **Supervisor** Giulio
 
-  - 👨‍🏫: ⭐
-  - 🖥️: ⭐⭐⭐
-  
-  - **Link :** 
-  - **Brief description :** 
-  - **How to reproduce :**
-  - **How to extend :** 
+- **Paper** **Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning**
+
+  * 👨‍🏫: ⭐
+
+  * 🖥️: ⭐⭐⭐
+
+  * **Link:** [Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning](https://openreview.net/forum?id=jiNw5AgBbw)
+
+  * **Brief description:** LLM-based agents can interact with their environment through tools. These tools are supplied in context through their function definitions, argument schemas, return values, and natural-language descriptions. Because tools, skills, and MCP servers may be downloaded from or exposed by untrusted sources, an attacker can embed instructions in these descriptions. One class of attack subtly steers an agent’s trajectory towards different tool choices, making it less conspicuous than direct malicious-instruction injection. This work addresses tool-description poisoning attacks that steer an agent towards invoking otherwise benign tools. Tool-Guard classifies tool calls along two binary dimensions: aligned versus misaligned, and normal versus suspicious. Tools associated with calls classified as misaligned or suspicious are moved to an influenced list, over which planning is performed separately from the normal tool list.
+
+  * **How to reproduce:** The code for this paper is fully available. You will reproduce **Experiment 1** or **Experiment 3** using two LLMs of your choice. One model must be self-hosted, while the other must be accessed through an inference provider. I can direct you towards suitable options depending on your available hardware and budget; free or low-cost options are also available. 
+
+  * **How to extend:** Separated-planning defenses against prompt injection, tool or skill poisoning, and malicious MCP servers incur additional inference overhead. This overhead may itself be amplified by attacks such as the one proposed in [this paper](https://arxiv.org/pdf/2602.14798). As an extension, you should implement a small set of overthinking-inducing tools and evaluate whether Tool-Guard identifies them as suspicious or misaligned. If time permits, an extension of Tool-Guard that mitigates overthinking-inducing tools can also be explored.
+
 
 -- **Supervisor** Zhiwen
 - **Paper ** XXXXX
@@ -97,7 +103,6 @@
   - **Brief description :** 
   - **How to reproduce :**
   - **How to extend :** 
-
 
 
 
