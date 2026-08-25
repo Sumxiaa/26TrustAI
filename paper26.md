@@ -40,7 +40,7 @@
 
 - **Supervisor** Giulio
 
-- **Paper** **Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning**
+- **Paper** Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning
 
   * 👨‍🏫: ⭐
 
@@ -82,7 +82,7 @@
 
 ## Topic : Structured Data Generation
 - **Supervisor** Aditya
-- **Paper ** WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models
+- **Paper** WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models
 
   - 👨‍🏫: ⭐⭐
   - 🖥️: ⭐⭐
