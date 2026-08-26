@@ -1,4 +1,4 @@
-# Seminar Trustworthy AI Models and Systems"
+# Seminar Trustworthy AI Models and Systems
 
 :warning: **We are still developing the course content. The content will be only be finalized by the end of the first week of the semester.**
 
