@@ -14,16 +14,21 @@
   - **How to reproduce :**
   - **How to extend :** 
 
-- **Supervisor** Summer
-- **Paper ** Steerable Visual Representations — Trustworthy Visual Steering
+* **Supervisor:** Summer
+* **Paper:** HulluEdit — Trustworthy Hallucination Mitigation in Large Vision-Language Models
 
-  - 👨‍🏫: ⭐
-  - 🖥️: ⭐⭐⭐
-  
-  - **Link : [SteerViT Project Page](https://jonaruthardt.github.io/project/SteerViT/)
-  - **Brief description :** This paper introduces SteerViT, which injects text into a frozen vision foundation model through lightweight cross-attention modules. The resulting visual representations can focus on text-specified objects while largely preserving the general-purpose representation quality of the original vision encoder.
-  - **How to reproduce :** Use the released checkpoint to reproduce the main object-steering experiments and visualizations. Students can also train a lightweight version on a subset of RefCOCO or RefCOCOg with a frozen DINOv2 backbone.
-  - **How to extend : There are three promising directions. First, improve the steering mechanism itself by making it evidence-aware, so that the model can reduce or reject steering when the text describes an absent, incorrect, or ambiguous object. Second, apply text-steered DINO features to dino-based video generation settings (E.g.: [CAGE](https://arxiv.org/abs/2403.14368)) for controllable video generation, allowing users to select an object with language and control its motion while preserving other objects and the background. Third, extend the method to medical images or other domains, where clinical text can steer the model toward relevant abnormalities, while an uncertainty or abstention mechanism prevents unsupported prompts from creating false visual evidence. Self-proposed extensions are also appreciated.
+  * 👨‍🏫: ⭐
+
+  * 🖥️: ⭐⭐⭐
+
+  * **Link:** [HulluEdit Paper](https://arxiv.org/abs/2602.22727)
+
+  * **Brief description:** HulluEdit is a training-free, single-pass method for mitigating object hallucinations in large vision-language models. It decomposes hidden representations into orthogonal subspaces corresponding to visual evidence, conflicting language priors, and residual uncertainty, and selectively suppresses the latter components while preserving visual evidence.
+
+  * **How to reproduce:** Reproduce the main hallucination-reduction results on POPE and CHAIR using one selected open-source LVLM, verify general capability on MME, and visualize how the visual-evidence, language-prior, and residual components change across layers and prompt conditions. Since HulluEdit requires neither model training nor an additional reference model, the main experiments can be conducted on a single H100 or 4090-class GPU.
+
+  * **How to extend:** There are three promising directions. First, move from geometric orthogonality to causal identifiability by using paired image and prompt counterfactuals to separate visual effects, language-prior effects, and their harmful interactions, then editing only causally verified hallucination components. Second, study binding-aware compositional hallucination by asking whether attribute, relation, and counting errors arise from incorrect entity–concept bindings rather than isolated hallucination directions, and develop editing methods at the binding or operator level. Third, inspired by [ISO](https://arxiv.org/abs/2607.19331), replace destructive suppression with isospectral evidence realignment: preserve activation singular values and token geometry while rotating harmful prior or interaction subspaces away from hallucination-sensitive readout directions. Medical or other safety-critical domains can serve as external validation for image–text conflicts and insufficient visual evidence, but domain transfer alone should not be treated as the main novelty. Self-proposed extensions are also appreciated.
+
  
 - **Supervisor** Abel
 - **Paper ** Guard
