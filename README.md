@@ -1,4 +1,4 @@
-# Seminar Trustworthy AI Models and Systems"
+# Seminar Trustworthy AI Models and Systems
 
 :warning: **We are still developing the course content. The content will be only be finalized by the end of the first week of the semester.**
 
@@ -44,7 +44,7 @@ This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.co
 
 
 
-Lydia can be always reached at **lydiaychen@ieee.org**, and Christos at Christos **christos.dimitrakakis@unine.ch**. In order to get prompt response about the course, put the email title starting with [TAI26]
+Lydia can be always reached at **lydiaychen@ieee.org**. In order to get prompt response about the course, put the email title starting with [TAI26]
 
 
 ##  <a name='Learningobjectives'></a>Learning objectives
