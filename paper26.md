@@ -26,9 +26,9 @@
 * **Supervisor** Summer
 * **Paper** HulluEdit — Practical and Reliable Hallucination Mitigation for Vision-Language Models
 
-  * 👨‍🏫: ⭐⭐
+  * 👨‍🏫: ⭐
 
-  * 🖥️: ⭐⭐
+  * 🖥️: ⭐⭐⭐
 
   * **Link** : [Paper](https://arxiv.org/abs/2602.22727) | [Official Code](https://github.com/VioAgnes/HulluEdit)
 
